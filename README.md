@@ -18,6 +18,7 @@ you can make your own contribution.
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
 <p>
+
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -37,7 +38,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [sbt-publish-more] - publish to several repositories     | [@laughedelic]     |
 | [zinc][zinc] - Scala incremental compiler                           | [@jvican] & [@Duhemm]                 |
 | [sbt][sbt] - Scala build tool                                       | [@jvican] & [@Duhemm]                |
-| [Scala Native][scala-native]                                        | [@Duhemm]           |
+| [scala-native][scala-native]                                        | [@Duhemm]           |
 | [scala-lang.org][scala-lang]                                        | [@jvican]           |
 | [docs.scala-lang.org][docs.scala-lang]                              | [@jvican]           |
 | [sbt-release-early][sbt-release-early]                                        | [@jvican]           |
@@ -124,7 +125,7 @@ Want to add your project to the list? Jump to the next section!
 [creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 [accord]: https://github.com/wix/accord/labels/spree
-[scala-native]: https://github.com/scala-native/scala-native/labels/spree
+[scala-native]: https://github.com/scala-native/scala-native 
 
 [Lambda World]: http://lambda.world/
 
