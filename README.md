@@ -18,6 +18,7 @@ you can make your own contribution.
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
 <p>
+
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
